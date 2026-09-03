@@ -1,0 +1,24 @@
+foundersaathi@0.1.0 D:\foundersaathi
++-- @emnapi/core@1.10.0 extraneous
++-- @emnapi/runtime@1.11.3 extraneous
++-- @emnapi/wasi-threads@1.2.1 extraneous
++-- @google/genai@2.19.0
++-- @img/sharp-wasm32@0.35.3 extraneous
++-- @napi-rs/wasm-runtime@1.2.3 extraneous
++-- @supabase/ssr@0.12.5
++-- @supabase/supabase-js@2.112.4
++-- @tailwindcss/postcss@4.3.3
++-- @tybys/wasm-util@0.10.3 extraneous
++-- @types/node@20.19.43
++-- @types/react-dom@19.2.5
++-- @types/react@19.2.18
++-- eslint-config-next@16.3.3
++-- eslint@9.39.5
++-- lucide-react@1.34.0
++-- next@16.3.3
++-- openai@7.5.0
++-- react-dom@19.2.8
++-- react@19.2.8
++-- tailwindcss@4.3.3
+`-- typescript@5.9.3
+

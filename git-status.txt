@@ -1,0 +1,25 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    app/favicon.ico
+	deleted:    app/globals.css
+	deleted:    app/layout.tsx
+	deleted:    app/page.tsx
+	modified:   next.config.ts
+	modified:   package-lock.json
+	modified:   package.json
+	modified:   tsconfig.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	dependencies.txt
+	git-status.txt
+	project-tree.txt
+	proxy.ts
+	recovery-backup/
+	src/
+
+no changes added to commit (use "git add" and/or "git commit -a")

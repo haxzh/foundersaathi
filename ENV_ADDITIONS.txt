@@ -1,0 +1,10 @@
+# Add these to .env.local / your production environment.
+# Do NOT commit real values.
+
+SUPABASE_SERVICE_ROLE_KEY=your_service_role_key
+RAG_INGEST_SECRET=use_a_long_random_secret_in_production
+
+# Existing variables remain required:
+# GEMINI_API_KEY=...
+# NEXT_PUBLIC_SUPABASE_URL=...
+# NEXT_PUBLIC_SUPABASE_ANON_KEY=...
